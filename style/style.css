@@ -1,0 +1,28 @@
+header{
+    background-color: green;
+    font-size: large;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+main{
+    
+    background-color: darkseagreen;
+}
+footer{
+    background-color: firebrick;
+    font-style: oblique;
+}
+h3, h4, h5{
+    color: lawngreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: large;
+}
+.wrapper{
+    max-width: 800px;
+    margin: 0 auto;
+}
+h1, h2{
+    color: lawngreen;
+}
